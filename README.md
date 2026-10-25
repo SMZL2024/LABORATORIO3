@@ -22,7 +22,7 @@ Facultad de Postgrados y Estudios Internacionales
 
 El desarrollo del laboratorio se realizó colaborativamente utilizando Git y GitHub.
 
-**Repositorio:** https://github.com/SMYL2024/LABORATORIO3
+**Repositorio:** https://github.com/SMZL2024/LABORATORIO3
 
 El historial de commits permite consultar las contribuciones realizadas por ambos integrantes durante el desarrollo de los cinco ejercicios.
 
