@@ -1,0 +1,7 @@
+
+# Archivos de macOS
+.DS_Store
+
+# Archivos compilados de Java
+out/
+*.class
