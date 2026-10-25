@@ -1,0 +1,18 @@
+988d9b3 | Samuel Masferrer | 2026-10-25 | Update repository link in README.md
+553df89 | Samuel Masferrer | 2026-10-25 | Update README with repository and version control info
+a9c1418 | Samuel Masferrer | 2026-10-25 | Clean up README by removing footer section
+f94df4b | Samuel Masferrer | 2026-10-25 | Revise README with project details and exercises
+50523b1 | Samuel Masferrer | 2026-10-25 | add: se agrego la portada de documentacion PDF
+4555571 | samuelmasferrer | 2026-10-25 | fix: incluir clases Main de ejercicios 3 y 4 y actualizar gitignore
+b21624a | samuelmasferrer | 2026-10-25 | feat: agregar Ejercicio4 y actualizar documentación
+1ca5933 | Samuel Masferrer | 2026-10-25 | Delete LABORATORIO3 directory
+2e767e2 | Jonathan Steve Mendoza García | 2026-10-25 | Add files via upload
+530ad87 | Jonathan Steve Mendoza García | 2026-10-25 | Add files via upload
+6448007 | jostem120 | 2026-10-25 | prueba 1
+63d844a | samuelmasferrer | 2026-10-25 | commit 2- se agregaron comentarios a los archivos del EJERCICIO2, y se agrego la carpeta del EJERCICIO3 con 3 nuevos archivos comentarios y validaciones realizadas
+ede96f2 | samuelmasferrer | 2026-10-25 | commit ejercicio 2 - finalizado agregados archivos ComparadorTicket.java, Main.java, Nivel.java, Ticket.java
+cacc4bd | samuelmasferrer | 2026-10-25 | commit ejercicio 2
+99fa098 | samuelmasferrer | 2026-10-25 | Merge branch 'main' of https://github.com/SMZL2024/LABORATORIO3 # Please enter a commit message to explain why this merge is necessary, # especially if it merges an updated upstream into a topic branch. # # Lines starting with '#' will be ignored, and an empty message aborts # the commit.
+89843d3 | samuelmasferrer | 2026-10-25 | Initial commit- commit inicial creacion de ejercicio 2
+7fefe9e | Samuel Masferrer | 2026-10-25 | Initial commit- commit inicial creacion de ejercicio 2
+fe0f0bd | Samuel Masferrer | 2026-10-25 | Initial commit
