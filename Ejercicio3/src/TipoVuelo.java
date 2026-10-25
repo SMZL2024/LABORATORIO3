@@ -1,7 +1,13 @@
 /**
- * Esta clase contiene los tipos de vuelo en orden de prioridades de aterrizaje
+ * Define los tipos de vuelo según su prioridad de aterrizaje.
+ *
+ * @author Samuel Darío González Masferrer
  */
-
 public enum TipoVuelo {
-    EMERGENCIA, COMERCIAL, CARGA
+    /** Prioridad máxima. */
+    EMERGENCIA,
+    /** Prioridad intermedia. */
+    COMERCIAL,
+    /** Prioridad menor. */
+    CARGA
 }

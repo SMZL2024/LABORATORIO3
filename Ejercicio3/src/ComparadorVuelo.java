@@ -1,32 +1,33 @@
-import  java.util.Comparator;
+import java.util.Comparator;
 
 /**
- * se construye el comparador usando lambda
+ * Define la prioridad de aterrizaje por tipo, combustible y pasajeros.
+ *
+ * @author Samuel Darío González Masferrer
  */
 public final class ComparadorVuelo {
-    private ComparadorVuelo() {}
+
+    /** Evita crear instancias de esta clase auxiliar. */
+    private ComparadorVuelo() {
+    }
 
     /**
-     * Prioriza tipo, menor combustible y mas pasajeros.
+     * Crea el comparador usando una lambda y tres criterios.
+     *
+     * @return comparador según prioridad de aterrizaje
      */
     public static Comparator<Vuelo> crear() {
         return (a, b) -> {
-            /** 1. el orden del enum define la prioridad principal.
-             *
-             */
+            // 1. Prioridad según el orden del enum.
             int resultado = Integer.compare(a.getTipo().ordinal(), b.getTipo().ordinal());
             if (resultado != 0) return resultado;
 
-            /** 2. Menos minutos de combustible significa mayor prioridad
-             *
-             */
+            // 2. Menos combustible significa mayor prioridad.
             resultado = Integer.compare(a.getCombustibleMin(), b.getCombustibleMin());
             if (resultado != 0) return resultado;
 
-            /** 3. Si aun hay una igualdad, aterriza el de mas pasajeros.
-             *
-             */
-            return  Integer.compare(b.getPasajeros(), a.getPasajeros());
+            // 3. En caso de empate, aterriza el vuelo con más pasajeros.
+            return Integer.compare(b.getPasajeros(), a.getPasajeros());
         };
     }
 }
