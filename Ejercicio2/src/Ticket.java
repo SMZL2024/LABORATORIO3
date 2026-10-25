@@ -27,6 +27,10 @@ private final int horasEspera;
         this.horasEspera = horasEspera;
     }
 
+    /** En esta seccion se establecen los metodos get
+     *
+     * @return
+     */
     public String getDescripcion() {
         return descripcion;
     }
