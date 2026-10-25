@@ -17,6 +17,16 @@ Facultad de Postgrados y Estudios Internacionales
 | Samuel Darío González Masferrer | GM100224 |
 | Jonathan Steve Mendoza García | MG101125 |
 
+
+## Repositorio y control de versiones
+
+El desarrollo del laboratorio se realizó colaborativamente utilizando Git y GitHub.
+
+**Repositorio:** https://github.com/SMYL2024/LABORATORIO3
+
+El historial de commits permite consultar las contribuciones realizadas por ambos integrantes durante el desarrollo de los cinco ejercicios.
+
+
 ## Descripción
 
 Este laboratorio tiene como objetivo implementar y analizar colas de prioridad en Java mediante `PriorityQueue` y comparadores personalizados.
