@@ -106,7 +106,3 @@ Cada ejercicio se encuentra organizado como un proyecto Java independiente, con 
 ## Trabajo colaborativo
 
 El desarrollo se realizó de manera grupal utilizando Git y GitHub para gestionar versiones, integrar cambios y mantener un historial de contribuciones.
-
----
-
-**Universidad Francisco Gavidia — 2026**
