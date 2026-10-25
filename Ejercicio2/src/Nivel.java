@@ -7,6 +7,4 @@ public enum Nivel {
     MEDIA,
     BAJA
 }
-/**
- *
- */
+
